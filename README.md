@@ -18,4 +18,6 @@ The primary objective is to evaluate and compare the ability of these models to 
 
 The focus here is on prediction rather than causal inference. 
 
+Some inspiration for the methodology has been taken from this paper: Diagnostics 2024, 14(22), 2504; https://doi.org/10.3390/diagnostics14222504
+
 The data has been obtained from Kaggle.
