@@ -17,3 +17,5 @@ The study compares seven classification approaches:
 The primary objective is to evaluate and compare the ability of these models to discriminate between ASD-positive and ASD-negative individuals.
 
 The focus here is on prediction rather than causal inference. 
+
+The data has been obtained from Kaggle.
